@@ -1,0 +1,9 @@
+{
+  "name": "earthquake-forecaster",
+  "version": "0.0.1",
+  "description": "Application that predicts the date, location and magnitude of the next earthquake",
+  "main": "index.js",
+  "scripts": {
+  },
+  "author": "Ravi Suresh Mashru"
+}
